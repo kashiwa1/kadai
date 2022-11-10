@@ -32,7 +32,6 @@ ul.ddmenu a {
 } 
 
 #k{
-	text-align: center;
 	font-family:"游ゴシック Light";
 	font-size:40px;
 	font-weight: bold;  
@@ -41,13 +40,11 @@ ul.ddmenu a {
 #s{
 	font-size:40px;
 	font-family:"游ゴシック Light";
-	text-align: center;
 	font-weight: bold;  
 }
 #w{
 	font-size:40px;
 	font-family:"游ゴシック Light";
-	text-align: center;
 	font-weight: bold;  
 }
 
